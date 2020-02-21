@@ -1,0 +1,23 @@
+The time is Fri Feb 21 17:27:25 CST 2020
+****************************************
+currently logged users:
+usaafh   pts/0        2020-02-21 16:28 (c-69-243-235-206.hsd1.al.comcast.net)
+uahkxc   pts/1        2020-02-18 06:57 (136.53.61.46)
+ualzrl   pts/2        2020-02-21 08:54 (130.160.125.1)
+ualprj   pts/4        2020-02-21 15:36 (c-73-58-56-98.hsd1.al.comcast.net)
+aubcls44 pts/5        2020-02-21 09:50 (131.204.254.86)
+uabcls08 pts/6        2020-02-21 15:55 (138.26.210.195)
+aubszb   pts/7        2020-01-15 11:10 (csexmac191.eng.auburn.edu)
+uahapm   pts/8        2020-02-21 14:35 (146.229.236.198)
+ualpss   pts/9        2020-02-20 18:00 (130.160.125.1)
+ualmab   pts/10       2020-02-20 15:21 (130.160.124.4)
+ualcls30 pts/11       2020-02-21 08:44 (130.160.57.1)
+uahapm   pts/12       2020-02-21 14:56 (146.229.236.198)
+aubcls63 pts/13       2020-02-21 16:38 (131.204.254.84)
+usadxh   pts/15       2020-02-18 09:58 (wan-215-227.usouthal.edu)
+asndcy   pts/17       2020-02-04 15:48 (129.66.33.254)
+usabmw   pts/18       2020-02-21 11:50 (c-68-57-185-120.hsd1.al.comcast.net)
+aubmes   pts/23       2020-02-21 11:44 (131.204.254.86)
+****************************************
+system has been running:
+ 17:27:25 up 66 days, 51 min, 17 users,  load average: 0.06, 0.08, 0.12
