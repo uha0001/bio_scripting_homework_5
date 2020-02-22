@@ -21,3 +21,24 @@ aubmes   pts/23       2020-02-21 11:44 (131.204.254.86)
 ****************************************
 system has been running:
  17:27:25 up 66 days, 51 min, 17 users,  load average: 0.06, 0.08, 0.12
+The time is Sat Feb 22 11:27:31 CST 2020
+****************************************
+currently logged users:
+usabmw   pts/0        2020-02-22 09:00 (c-68-57-185-120.hsd1.al.comcast.net)
+uahkxc   pts/1        2020-02-18 06:57 (136.53.61.46)
+aubmxa   pts/2        2020-02-22 10:38 (071-012-119-006.res.spectrum.com)
+aubcls63 pts/4        2020-02-22 10:41 (131.204.254.85)
+aubcls44 pts/5        2020-02-21 09:50 (131.204.254.86)
+aubcls72 pts/6        2020-02-22 10:53 (71-8-92-192.dhcp.leds.al.charter.com)
+aubszb   pts/7        2020-01-15 11:10 (csexmac191.eng.auburn.edu)
+aubmxa   pts/8        2020-02-21 21:58 (071-012-119-006.res.spectrum.com)
+aubmxa   pts/9        2020-02-21 17:52 (071-012-119-006.res.spectrum.com)
+ualmab   pts/10       2020-02-20 15:21 (130.160.124.4)
+usaafh   pts/11       2020-02-22 11:14 (c-69-243-235-206.hsd1.al.comcast.net)
+aubmxa   pts/12       2020-02-21 17:52 (071-012-119-006.res.spectrum.com)
+usadxh   pts/15       2020-02-18 09:58 (wan-215-227.usouthal.edu)
+asndcy   pts/17       2020-02-04 15:48 (129.66.33.254)
+aubmes   pts/23       2020-02-21 11:44 (131.204.254.86)
+****************************************
+system has been running:
+ 11:27:31 up 66 days, 18:51, 15 users,  load average: 1.07, 1.71, 2.73
