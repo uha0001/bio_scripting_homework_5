@@ -31,4 +31,4 @@ echo Decrement operator when applied on "b" results into b = $b
 ((--c))
 echo What was the default value \ of c if its value is now $c\?
 ((++c))
-echo $c
+echo Default value of c is $c
